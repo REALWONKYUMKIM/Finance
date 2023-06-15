@@ -1,0 +1,139 @@
+<table style="border-collapse: collapse; width: 100%; height: 459px;" border="1" data-ke-align="alignLeft">
+<tbody>
+<tr style="height: 17px;">
+<td style="width: 15.5814%; height: 17px;">B</td>
+<td style="width: 36.9767%; height: 17px;">영업일 기준 빈도</td>
+<td style="width: 47.4419%;">Business day frequency</td>
+</tr>
+<tr style="height: 17px;">
+<td style="width: 15.5814%; height: 17px;">C</td>
+<td style="width: 36.9767%; height: 17px;">사용자 정의한 영업일 기준 빈도</td>
+<td style="width: 47.4419%;">Custom Business day frequency</td>
+</tr>
+<tr style="height: 17px;">
+<td style="width: 15.5814%; height: 17px;">D</td>
+<td style="width: 36.9767%; height: 17px;">일 빈도</td>
+<td style="width: 47.4419%;">Calendar day frequency</td>
+</tr>
+<tr style="height: 17px;">
+<td style="width: 15.5814%; height: 17px;">W</td>
+<td style="width: 36.9767%; height: 17px;">주간 빈도</td>
+<td style="width: 47.4419%;">Weekly frequency</td>
+</tr>
+<tr style="height: 17px;">
+<td style="width: 15.5814%; height: 17px;">M</td>
+<td style="width: 36.9767%; height: 17px;">월 빈도</td>
+<td style="width: 47.4419%;">Month end frequency</td>
+</tr>
+<tr style="height: 17px;">
+<td style="width: 15.5814%; height: 17px;">SM</td>
+<td style="width: 36.9767%; height: 17px;">15일 기준 빈도</td>
+<td style="width: 47.4419%;">semi-month end frequency</td>
+</tr>
+<tr style="height: 17px;">
+<td style="width: 15.5814%; height: 17px;">BM</td>
+<td style="width: 36.9767%; height: 17px;">영업 종료 월 빈도</td>
+<td style="width: 47.4419%;">business month end frequency</td>
+</tr>
+<tr style="height: 17px;">
+<td style="width: 15.5814%; height: 17px;">CBM</td>
+<td style="width: 36.9767%; height: 17px;">사용자 정의 기준 비지니스 우러 빈도</td>
+<td style="width: 47.4419%;">cusom business month end frequency</td>
+</tr>
+<tr style="height: 17px;">
+<td style="width: 15.5814%; height: 17px;">MS</td>
+<td style="width: 36.9767%; height: 17px;">월 시작 빈도</td>
+<td style="width: 47.4419%;">month start frequency</td>
+</tr>
+<tr style="height: 17px;">
+<td style="width: 15.5814%; height: 17px;">SMS</td>
+<td style="width: 36.9767%; height: 17px;">15일 기준으로 시작 기준인 빈도</td>
+<td style="width: 47.4419%;">semi-month start frequncy (1st and 15th)</td>
+</tr>
+<tr style="height: 17px;">
+<td style="width: 15.5814%; height: 17px;">BMS</td>
+<td style="width: 36.9767%; height: 17px;">영업 월 시작 기준 빈도</td>
+<td style="width: 47.4419%;">Business month start frequency</td>
+</tr>
+<tr style="height: 17px;">
+<td style="width: 15.5814%; height: 17px;">CBMS</td>
+<td style="width: 36.9767%; height: 17px;">사용자 정의 비지니스 월 시작기준 빈도</td>
+<td style="width: 47.4419%;">Custom Business month start frequency</td>
+</tr>
+<tr style="height: 17px;">
+<td style="width: 15.5814%; height: 17px;">Q</td>
+<td style="width: 36.9767%; height: 17px;">분기 기준</td>
+<td style="width: 47.4419%;">quarter end freqency</td>
+</tr>
+<tr style="height: 17px;">
+<td style="width: 15.5814%; height: 17px;">BQ</td>
+<td style="width: 36.9767%; height: 17px;">사업 분기 빈도</td>
+<td style="width: 47.4419%;">business quarter end frequency</td>
+</tr>
+<tr style="height: 17px;">
+<td style="width: 15.5814%; height: 17px;">QS</td>
+<td style="width: 36.9767%; height: 17px;">분기 시작 빈도</td>
+<td style="width: 47.4419%;">business start frequency</td>
+</tr>
+<tr style="height: 17px;">
+<td style="width: 15.5814%; height: 17px;">BQS</td>
+<td style="width: 36.9767%; height: 17px;">비지니스 분기 시작 빈도</td>
+<td style="width: 47.4419%;">business quarter start frequency</td>
+</tr>
+<tr style="height: 17px;">
+<td style="width: 15.5814%; height: 17px;">A, Y</td>
+<td style="width: 36.9767%; height: 17px;">연말 끝 기준 빈도</td>
+<td style="width: 47.4419%;">year end frequency</td>
+</tr>
+<tr style="height: 17px;">
+<td style="width: 15.5814%; height: 17px;">BA, BY</td>
+<td style="width: 36.9767%; height: 17px;">사업 연도</td>
+<td style="width: 47.4419%;">business year end frequency</td>
+</tr>
+<tr style="height: 17px;">
+<td style="width: 15.5814%; height: 17px;">AS, YS</td>
+<td style="width: 36.9767%; height: 17px;">연도 시작 빈도</td>
+<td style="width: 47.4419%;">year start frequency</td>
+</tr>
+<tr style="height: 17px;">
+<td style="width: 15.5814%; height: 17px;">BAS, BYS</td>
+<td style="width: 36.9767%; height: 17px;">사업 연도 시작 빈도</td>
+<td style="width: 47.4419%;">business year start frequency</td>
+</tr>
+<tr style="height: 17px;">
+<td style="width: 15.5814%; height: 17px;">BH</td>
+<td style="width: 36.9767%; height: 17px;">영업 시간 빈도</td>
+<td style="width: 47.4419%;">business hour frequency</td>
+</tr>
+<tr style="height: 17px;">
+<td style="width: 15.5814%; height: 17px;">H</td>
+<td style="width: 36.9767%; height: 17px;">시간 당 빈도</td>
+<td style="width: 47.4419%;">hourly frequency</td>
+</tr>
+<tr style="height: 17px;">
+<td style="width: 15.5814%; height: 17px;">T, min</td>
+<td style="width: 36.9767%; height: 17px;">분 당 빈도</td>
+<td style="width: 47.4419%;">minutely frequency</td>
+</tr>
+<tr style="height: 17px;">
+<td style="width: 15.5814%; height: 17px;">S</td>
+<td style="width: 36.9767%; height: 17px;">초 당 빈도</td>
+<td style="width: 47.4419%;">secondly frequency</td>
+</tr>
+<tr style="height: 17px;">
+<td style="width: 15.5814%; height: 17px;">L, ms</td>
+<td style="width: 36.9767%; height: 17px;">밀리초 당 빈도</td>
+<td style="width: 47.4419%;">miliseconds</td>
+</tr>
+<tr style="height: 17px;">
+<td style="width: 15.5814%; height: 17px;">U, us</td>
+<td style="width: 36.9767%; height: 17px;">마이크로 초 기준 빈도</td>
+<td style="width: 47.4419%;">microseconds</td>
+</tr>
+<tr style="height: 17px;">
+<td style="width: 15.5814%; height: 17px;">N</td>
+<td style="width: 36.9767%; height: 17px;">나노 초 빈도</td>
+<td style="width: 47.4419%;">nanoseconds</td>
+</tr>
+</tbody>
+</table>
